@@ -1,0 +1,1436 @@
+[
+    {
+        "word": "Aberration",
+        "type": [
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˌæbəˈreɪʃən/",
+            "root": "aber (Latin: away from)",
+            "forms": {
+                "verb": null,
+                "adjective": "aberrant /əˈberənt/",
+                "adverb": null
+            }
+        },
+        "meaning": "A departure from what is normal, usual, or expected",
+        "synonyms": [
+            "Anomaly",
+            "Deviation",
+            "Irregularity",
+            "Exception"
+        ],
+        "exampleSentences": [
+            "The unusual weather pattern was an aberration from the typical seasonal norms.",
+            "His violent behavior was an aberration from his usually calm demeanor."
+        ]
+    },
+    {
+        "word": "Belligerent",
+        "type": [
+            "adjective",
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/bəˈlɪdʒərənt/",
+            "root": "bellum (Latin: war)",
+            "forms": {
+                "verb": null,
+                "noun": "belligerence /bəˈlɪdʒərəns/",
+                "adverb": "belligerently /bəˈlɪdʒərəntli/"
+            }
+        },
+        "meaning": "Hostile and aggressive; engaged in warfare",
+        "synonyms": [
+            "Aggressive",
+            "Hostile",
+            "Antagonistic",
+            "Combative"
+        ],
+        "exampleSentences": [
+            "The belligerent customer demanded to speak to the manager.",
+            "His belligerent attitude made it difficult to have a rational discussion."
+        ]
+    },
+    {
+        "word": "Cacophony",
+        "type": [
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/kəˈkɒfəni/",
+            "root": "kakos (Greek: bad) + phone (Greek: sound)",
+            "forms": {
+                "verb": null,
+                "adjective": "cacophonous /kəˈkɒfənəs/",
+                "adverb": "cacophonously"
+            }
+        },
+        "meaning": "A harsh, discordant mixture of sounds",
+        "synonyms": [
+            "Discord",
+            "Dissonance",
+            "Noise",
+            "Clamor"
+        ],
+        "exampleSentences": [
+            "The cacophony of the city streets made it difficult to concentrate.",
+            "A cacophony of voices filled the crowded marketplace."
+        ]
+    },
+    {
+        "word": "Diligent",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈdɪlɪdʒənt/",
+            "root": "diligere (Latin: to value highly)",
+            "forms": {
+                "verb": null,
+                "noun": "diligence /ˈdɪlɪdʒəns/",
+                "adverb": "diligently /ˈdɪlɪdʒəntli/"
+            }
+        },
+        "meaning": "Having or showing care and conscientiousness in one's work or duties",
+        "synonyms": [
+            "Hardworking",
+            "Conscientious",
+            "Meticulous",
+            "Thorough"
+        ],
+        "exampleSentences": [
+            "The diligent student spent extra hours studying for the exam.",
+            "Her diligent approach to research led to several breakthrough discoveries."
+        ]
+    },
+    {
+        "word": "Ephemeral",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ɪˈfemərəl/",
+            "root": "ephemeros (Greek: lasting only one day)",
+            "forms": {
+                "verb": null,
+                "noun": "ephemerality /ɪˌfeməˈrælɪti/",
+                "adverb": "ephemerally /ɪˈfemərəli/"
+            }
+        },
+        "meaning": "Lasting for a very short time",
+        "synonyms": [
+            "Temporary",
+            "Fleeting",
+            "Transient",
+            "Short-lived"
+        ],
+        "exampleSentences": [
+            "The ephemeral beauty of cherry blossoms makes them especially precious.",
+            "Fame in social media can be ephemeral, lasting only a few days or weeks."
+        ]
+    },
+    {
+        "word": "Fastidious",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/fæˈstɪdiəs/",
+            "root": "fastidium (Latin: pride, distaste)",
+            "forms": {
+                "verb": null,
+                "noun": "fastidiousness",
+                "adverb": "fastidiously"
+            }
+        },
+        "meaning": "Very attentive to and concerned about accuracy and detail",
+        "synonyms": [
+            "Meticulous",
+            "Particular",
+            "Precise",
+            "Scrupulous"
+        ],
+        "exampleSentences": [
+            "The fastidious chef insisted that every plate be perfectly arranged.",
+            "Her fastidious attention to detail made her an excellent editor."
+        ]
+    },
+    {
+        "word": "Garrulous",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈɡærələs/",
+            "root": "garrire (Latin: to chatter)",
+            "forms": {
+                "verb": null,
+                "noun": "garrulity",
+                "adverb": "garrulously"
+            }
+        },
+        "meaning": "Excessively talkative, especially about trivial matters",
+        "synonyms": [
+            "Chatty",
+            "Verbose",
+            "Loquacious",
+            "Talkative"
+        ],
+        "exampleSentences": [
+            "The garrulous passenger talked throughout the entire flight.",
+            "His garrulous nature made him popular at social gatherings."
+        ]
+    },
+    {
+        "word": "Harbinger",
+        "type": [
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈhɑːbɪndʒər/",
+            "root": "herberger (Germanic: one who provides lodging)",
+            "forms": {
+                "verb": null,
+                "adjective": null,
+                "adverb": null
+            }
+        },
+        "meaning": "A person or thing that announces or signals the approach of another",
+        "synonyms": [
+            "Forerunner",
+            "Herald",
+            "Omen",
+            "Precursor"
+        ],
+        "exampleSentences": [
+            "The robin is often seen as a harbinger of spring.",
+            "Dark clouds were the harbinger of the approaching storm."
+        ]
+    },
+    {
+        "word": "Inculcate",
+        "type": [
+            "verb"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈɪnkʌlkeɪt/",
+            "root": "inculcare (Latin: to tread on)",
+            "forms": {
+                "noun": "inculcation",
+                "adjective": "inculcative",
+                "adverb": null
+            }
+        },
+        "meaning": "To instill an attitude, idea, or habit by persistent instruction",
+        "synonyms": [
+            "Instill",
+            "Implant",
+            "Impress",
+            "Infuse"
+        ],
+        "exampleSentences": [
+            "Parents try to inculcate good values in their children.",
+            "The teacher worked to inculcate a love of reading in her students."
+        ]
+    },
+    {
+        "word": "Juxtapose",
+        "type": [
+            "verb"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈdʒʌkstəpəʊz/",
+            "root": "juxta (Latin: near) + ponere (Latin: to place)",
+            "forms": {
+                "noun": "juxtaposition",
+                "adjective": "juxtaposed",
+                "adverb": null
+            }
+        },
+        "meaning": "To place close together or side by side, especially for comparison or contrast",
+        "synonyms": [
+            "Compare",
+            "Contrast",
+            "Parallel",
+            "Align"
+        ],
+        "exampleSentences": [
+            "The museum decided to juxtapose classical and modern artwork.",
+            "The author juxtaposed rural and urban life in her novel."
+        ]
+    },
+    {
+        "word": "Kowtow",
+        "type": [
+            "verb"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈkaʊtaʊ/",
+            "root": "Chinese: to knock one's head on the ground",
+            "forms": {
+                "noun": null,
+                "adjective": null,
+                "adverb": null
+            }
+        },
+        "meaning": "To act in an excessively subservient manner",
+        "synonyms": [
+            "Grovel",
+            "Submit",
+            "Defer",
+            "Fawn"
+        ],
+        "exampleSentences": [
+            "He refused to kowtow to the demands of his critics.",
+            "The new employee felt pressured to kowtow to office politics."
+        ]
+    },
+    {
+        "word": "Laconic",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ləˈkɒnɪk/",
+            "root": "Lakon (Greek: Sparta)",
+            "forms": {
+                "verb": null,
+                "noun": "laconicism",
+                "adverb": "laconically"
+            }
+        },
+        "meaning": "Using few words; concise or terse",
+        "synonyms": [
+            "Brief",
+            "Concise",
+            "Succinct",
+            "Terse"
+        ],
+        "exampleSentences": [
+            "His laconic response consisted of a single word.",
+            "The general was known for his laconic style of communication."
+        ]
+    },
+    {
+        "word": "Mellifluous",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/məˈlɪfluəs/",
+            "root": "mel (Latin: honey) + fluere (Latin: to flow)",
+            "forms": {
+                "verb": null,
+                "noun": "mellifluousness",
+                "adverb": "mellifluously"
+            }
+        },
+        "meaning": "Sweet or musical; pleasant to hear",
+        "synonyms": [
+            "Melodious",
+            "Harmonious",
+            "Smooth",
+            "Sweet-sounding"
+        ],
+        "exampleSentences": [
+            "The singer's mellifluous voice captivated the audience.",
+            "The mellifluous sound of the stream helped him relax."
+        ]
+    },
+    {
+        "word": "Nefarious",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/nɪˈfeəriəs/",
+            "root": "nefas (Latin: wrong, crime)",
+            "forms": {
+                "verb": null,
+                "noun": "nefariousness",
+                "adverb": "nefariously"
+            }
+        },
+        "meaning": "Wicked or criminal in nature",
+        "synonyms": [
+            "Villainous",
+            "Evil",
+            "Sinister",
+            "Wicked"
+        ],
+        "exampleSentences": [
+            "The detective uncovered their nefarious plot.",
+            "His nefarious activities finally caught up with him."
+        ]
+    },
+    {
+        "word": "Obfuscate",
+        "type": [
+            "verb"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈɒbfəskeɪt/",
+            "root": "ob (Latin: towards) + fuscare (Latin: to darken)",
+            "forms": {
+                "noun": "obfuscation",
+                "adjective": "obfuscatory",
+                "adverb": null
+            }
+        },
+        "meaning": "To render something unclear, obscure, or difficult to understand",
+        "synonyms": [
+            "Confuse",
+            "Muddle",
+            "Complicate",
+            "Perplex"
+        ],
+        "exampleSentences": [
+            "The politician tried to obfuscate the details of the controversial policy.",
+            "Complex technical language can obfuscate the true meaning of a document."
+        ]
+    },
+    {
+        "word": "Pragmatic",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/præɡˈmætɪk/",
+            "root": "pragma (Greek: deed, action)",
+            "forms": {
+                "noun": "pragmatism",
+                "verb": null,
+                "adverb": "pragmatically"
+            }
+        },
+        "meaning": "Dealing with things sensibly and realistically in a way that is based on practical considerations",
+        "synonyms": [
+            "Practical",
+            "Realistic",
+            "Sensible",
+            "Matter-of-fact"
+        ],
+        "exampleSentences": [
+            "Her pragmatic approach to problem-solving always yielded effective results.",
+            "The company needed a pragmatic leader who could navigate complex business challenges."
+        ]
+    },
+    {
+        "word": "Quintessential",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˌkwɪntɪˈsenʃəl/",
+            "root": "quinta essentia (Medieval Latin: fifth essence)",
+            "forms": {
+                "noun": "quintessence",
+                "verb": null,
+                "adverb": null
+            }
+        },
+        "meaning": "Representing the most perfect or typical example of a quality or class",
+        "synonyms": [
+            "Typical",
+            "Classic",
+            "Archetypal",
+            "Archetypal"
+        ],
+        "exampleSentences": [
+            "He was the quintessential British gentleman, with impeccable manners and a dry wit.",
+            "New York City is the quintessential melting pot of cultures."
+        ]
+    },
+    {
+        "word": "Recalcitrant",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/rɪˈkælsɪtrənt/",
+            "root": "re- (Latin: back) + calcitrare (Latin: to kick)",
+            "forms": {
+                "noun": "recalcitrance",
+                "verb": null,
+                "adverb": "recalcitrantly"
+            }
+        },
+        "meaning": "Having an obstinately uncooperative attitude toward authority or discipline",
+        "synonyms": [
+            "Stubborn",
+            "Rebellious",
+            "Defiant",
+            "Unmanageable"
+        ],
+        "exampleSentences": [
+            "The recalcitrant student refused to follow the school's dress code.",
+            "Despite numerous warnings, the recalcitrant employee continued to miss deadlines."
+        ]
+    },
+    {
+        "word": "Serendipity",
+        "type": [
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˌserənˈdɪpəti/",
+            "root": "Serendip (Persian: Sri Lanka, from a fairy tale)",
+            "forms": {
+                "adjective": "serendipitous",
+                "verb": null,
+                "adverb": "serendipitously"
+            }
+        },
+        "meaning": "The occurrence of events by chance in a beneficial way",
+        "synonyms": [
+            "Chance",
+            "Luck",
+            "Fortune",
+            "Coincidence"
+        ],
+        "exampleSentences": [
+            "Their meeting was pure serendipity, a chance encounter that changed both their lives.",
+            "Many scientific discoveries have happened through serendipity."
+        ]
+    },
+    {
+        "word": "Abstruse",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/æbˈstruːs/",
+            "root": "abstrudere (Latin: to hide, to conceal)",
+            "forms": {
+                "noun": "abstruseness",
+                "verb": null,
+                "adverb": "abstrusely"
+            }
+        },
+        "meaning": "Difficult to understand; obscure or profound",
+        "synonyms": [
+            "Complex",
+            "Cryptic",
+            "Arcane",
+            "Esoteric"
+        ],
+        "exampleSentences": [
+            "The professor's abstruse lecture left many students confused.",
+            "His abstruse philosophical writings challenged even experienced readers."
+        ]
+    },
+    {
+        "word": "Benevolent",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/bəˈnevələnt/",
+            "root": "bene (Latin: good) + volens (Latin: willing)",
+            "forms": {
+                "noun": "benevolence",
+                "verb": null,
+                "adverb": "benevolently"
+            }
+        },
+        "meaning": "Kind, generous, and caring toward others",
+        "synonyms": [
+            "Compassionate",
+            "Altruistic",
+            "Kind-hearted",
+            "Philanthropic"
+        ],
+        "exampleSentences": [
+            "The benevolent philanthropist donated millions to local charities.",
+            "Her benevolent nature made her beloved by her community."
+        ]
+    },
+    {
+        "word": "Capricious",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/kəˈprɪʃəs/",
+            "root": "capra (Latin: goat)",
+            "forms": {
+                "noun": "capriciousness",
+                "verb": null,
+                "adverb": "capriciously"
+            }
+        },
+        "meaning": "Given to sudden and unaccountable changes of mood or behavior",
+        "synonyms": [
+            "Unpredictable",
+            "Whimsical",
+            "Fickle",
+            "Mercurial"
+        ],
+        "exampleSentences": [
+            "The capricious weather changed from sunshine to rain in minutes.",
+            "Her capricious personality made her difficult to work with."
+        ]
+    },
+    {
+        "word": "Discretion",
+        "type": [
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/dɪˈskreʃən/",
+            "root": "discretus (Latin: separated, distinct)",
+            "forms": {
+                "verb": null,
+                "adjective": "discreet",
+                "adverb": "discreetly"
+            }
+        },
+        "meaning": "The quality of behaving or speaking in such a way as to avoid causing offense or revealing private information",
+        "synonyms": [
+            "Prudence",
+            "Tact",
+            "Circumspection",
+            "Diplomacy"
+        ],
+        "exampleSentences": [
+            "The lawyer maintained complete discretion about her client's case.",
+            "His discretion during the sensitive negotiation was highly praised."
+        ]
+    },
+    {
+        "word": "Ebullient",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ɪˈbʌliənt/",
+            "root": "ebullire (Latin: to boil over)",
+            "forms": {
+                "noun": "ebullience",
+                "verb": null,
+                "adverb": "ebulliently"
+            }
+        },
+        "meaning": "Overflowing with enthusiasm or excitement",
+        "synonyms": [
+            "Exuberant",
+            "Enthusiastic",
+            "Jubilant",
+            "Elated"
+        ],
+        "exampleSentences": [
+            "The ebullient child couldn't contain her excitement about the upcoming trip.",
+            "His ebullient personality made him a natural leader."
+        ]
+    },
+    {
+        "word": "Fallacious",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/fəˈleɪʃəs/",
+            "root": "fallax (Latin: deceptive)",
+            "forms": {
+                "noun": "fallacy",
+                "verb": null,
+                "adverb": "fallaciously"
+            }
+        },
+        "meaning": "Based on a mistaken belief; misleading or erroneous",
+        "synonyms": [
+            "Incorrect",
+            "Deceptive",
+            "Specious",
+            "Misleading"
+        ],
+        "exampleSentences": [
+            "His fallacious argument was quickly dismantled by the debate team.",
+            "The study was based on fallacious assumptions about human behavior."
+        ]
+    },
+    {
+        "word": "Gregarious",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ɡrɪˈɡeəriəs/",
+            "root": "grex (Latin: flock)",
+            "forms": {
+                "noun": "gregariousness",
+                "verb": null,
+                "adverb": "gregariouslys"
+            }
+        },
+        "meaning": "Fond of company; sociable",
+        "synonyms": [
+            "Outgoing",
+            "Sociable",
+            "Extroverted",
+            "Convivial"
+        ],
+        "exampleSentences": [
+            "The gregarious host made sure everyone felt welcome at the party.",
+            "Her gregarious nature helped her quickly make friends in a new city."
+        ]
+    },
+    {
+        "word": "Hegemony",
+        "type": [
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/hɪˈdʒeməni/",
+            "root": "hegemon (Greek: leader)",
+            "forms": {
+                "verb": null,
+                "adjective": "hegemonic",
+                "adverb": null
+            }
+        },
+        "meaning": "Leadership or dominance, especially by one country or social group over others",
+        "synonyms": [
+            "Dominance",
+            "Supremacy",
+            "Influence",
+            "Control"
+        ],
+        "exampleSentences": [
+            "The empire maintained its hegemony through military and economic power.",
+            "Cultural hegemony often occurs through subtle forms of social influence."
+        ]
+    },
+    {
+        "word": "Implicit",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ɪmˈplɪsɪt/",
+            "root": "implicare (Latin: to involve)",
+            "forms": {
+                "noun": "implicitness",
+                "verb": null,
+                "adverb": "implicitly"
+            }
+        },
+        "meaning": "Suggested or implied without being directly expressed",
+        "synonyms": [
+            "Implied",
+            "Indirect",
+            "Understood",
+            "Unspoken"
+        ],
+        "exampleSentences": [
+            "There was an implicit understanding between the colleagues.",
+            "The contract contained several implicit conditions."
+        ]
+    },
+    {
+        "word": "Jubilation",
+        "type": [
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˌdʒuːbɪˈleɪʃən/",
+            "root": "jubilare (Latin: to shout with joy)",
+            "forms": {
+                "verb": null,
+                "adjective": "jubilant",
+                "adverb": "jubilantly"
+            }
+        },
+        "meaning": "A feeling of great happiness and triumph",
+        "synonyms": [
+            "Rejoicing",
+            "Elation",
+            "Celebration",
+            "Exultation"
+        ],
+        "exampleSentences": [
+            "There was jubilation in the stadium when the team won the championship.",
+            "The jubilation of the crowd was palpable."
+        ]
+    },
+    {
+        "word": "Kinetic",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/kɪˈnetɪk/",
+            "root": "kinetos (Greek: moving)",
+            "forms": {
+                "noun": "kinetics",
+                "verb": null,
+                "adverb": "kinetically"
+            }
+        },
+        "meaning": "Relating to or resulting from motion",
+        "synonyms": [
+            "Moving",
+            "Dynamic",
+            "Active",
+            "Motile"
+        ],
+        "exampleSentences": [
+            "The artist created a kinetic sculpture that moved with the wind.",
+            "Kinetic energy is the energy of motion."
+        ]
+    },
+    {
+        "word": "Lethargy",
+        "type": [
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈleθərdʒi/",
+            "root": "lethargos (Greek: forgetful)",
+            "forms": {
+                "verb": null,
+                "adjective": "lethargic",
+                "adverb": "lethargically"
+            }
+        },
+        "meaning": "A lack of energy and enthusiasm",
+        "synonyms": [
+            "Sluggishness",
+            "Inactivity",
+            "Apathy",
+            "Inertia"
+        ],
+        "exampleSentences": [
+            "The hot weather induced a sense of lethargy in everyone.",
+            "His lethargy made it difficult to complete even simple tasks."
+        ]
+    },
+    {
+        "word": "Metaphorical",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˌmetəˈfɒrɪkəl/",
+            "root": "metaphora (Greek: transfer)",
+            "forms": {
+                "noun": "metaphor",
+                "verb": null,
+                "adverb": "metaphorically"
+            }
+        },
+        "meaning": "Using or characterized by figurative language; not literal",
+        "synonyms": [
+            "Symbolic",
+            "Figurative",
+            "Allegorical",
+            "Analogical"
+        ],
+        "exampleSentences": [
+            "When he said life was a rollercoaster, he was speaking metaphorically.",
+            "The poem was rich with metaphorical language."
+        ]
+    },
+    {
+        "word": "Nostalgia",
+        "type": [
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/nɒˈstældʒə/",
+            "root": "nostos (Greek: return) + algos (Greek: pain)",
+            "forms": {
+                "verb": null,
+                "adjective": "nostalgic",
+                "adverb": "nostalgically"
+            }
+        },
+        "meaning": "A sentimental longing or wistful affection for the past",
+        "synonyms": [
+            "Reminiscence",
+            "Yearning",
+            "Sentimentality",
+            "Remembrance"
+        ],
+        "exampleSentences": [
+            "She felt a wave of nostalgia when she found her old photograph album.",
+            "The music brought back nostalgic memories of his childhood."
+        ]
+    },
+    {
+        "word": "Omniscient",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ɒmˈnɪsiənt/",
+            "root": "omnis (Latin: all) + scientia (Latin: knowledge)",
+            "forms": {
+                "noun": "omniscience",
+                "verb": null,
+                "adverb": "omnisciently"
+            }
+        },
+        "meaning": "Knowing everything; having unlimited knowledge",
+        "synonyms": [
+            "All-knowing",
+            "Infinite",
+            "Comprehensive",
+            "Universal"
+        ],
+        "exampleSentences": [
+            "The narrator's omniscient perspective allowed readers to understand all characters' thoughts.",
+            "Some religions describe a divine being as omniscient."
+        ]
+    },
+    {
+        "word": "Peripheral",
+        "type": [
+            "adjective",
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/pəˈrɪfərəl/",
+            "root": "periphereia (Greek: circumference)",
+            "forms": {
+                "noun": "periphery",
+                "verb": null,
+                "adverb": "peripherally"
+            }
+        },
+        "meaning": "Situated on the edge or periphery of something; minor or secondary",
+        "synonyms": [
+            "Marginal",
+            "Outer",
+            "Secondary",
+            "Supplementary"
+        ],
+        "exampleSentences": [
+            "The peripheral details of the story were less important.",
+            "Peripheral vision allows us to see objects outside our direct gaze."
+        ]
+    },
+    {
+        "word": "Quintuple",
+        "type": [
+            "verb",
+            "adjective",
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈkwɪntjʊpl/",
+            "root": "quintus (Latin: fifth)",
+            "forms": {
+                "noun": "quintupling",
+                "adjective": "quintuple",
+                "adverb": null
+            }
+        },
+        "meaning": "To multiply by five or make five times as much",
+        "synonyms": [
+            "Increase",
+            "Multiply",
+            "Expand",
+            "Amplify"
+        ],
+        "exampleSentences": [
+            "The company's profits quintuple in just three years.",
+            "The quintuple winner of the championship was celebrated."
+        ]
+    },
+    {
+        "word": "Resilient",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/rɪˈzɪliənt/",
+            "root": "resilire (Latin: to jump back)",
+            "forms": {
+                "noun": "resilience",
+                "verb": null,
+                "adverb": "resiliently"
+            }
+        },
+        "meaning": "Able to withstand or recover quickly from difficult conditions",
+        "synonyms": [
+            "Adaptable",
+            "Tough",
+            "Flexible",
+            "Robust"
+        ],
+        "exampleSentences": [
+            "The community proved resilient in the face of economic challenges.",
+            "Her resilient spirit helped her overcome numerous setbacks."
+        ]
+    },
+    {
+        "word": "Arduous",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈɑːrdʒuəs/",
+            "root": "ardere (Latin: to burn)",
+            "forms": {
+                "noun": "arduousness",
+                "verb": null,
+                "adverb": "arduously"
+            }
+        },
+        "meaning": "Demanding great effort or labor; difficult to achieve",
+        "synonyms": [
+            "Challenging",
+            "Strenuous",
+            "Grueling",
+            "Taxing"
+        ],
+        "exampleSentences": [
+            "The arduous mountain climb tested the hikers' endurance.",
+            "She completed the arduous research project after months of hard work."
+        ]
+    },
+    {
+        "word": "Bucolic",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/bjuˈkɒlɪk/",
+            "root": "bukolikos (Greek: cowherd)",
+            "forms": {
+                "noun": "bucolicism",
+                "verb": null,
+                "adverb": "bucolically"
+            }
+        },
+        "meaning": "Relating to the pleasant aspects of the countryside and country life",
+        "synonyms": [
+            "Pastoral",
+            "Rural",
+            "Rustic",
+            "Idyllic"
+        ],
+        "exampleSentences": [
+            "The bucolic landscape was dotted with grazing sheep and old farmhouses.",
+            "She longed for a bucolic retreat from city life."
+        ]
+    },
+    {
+        "word": "Cryptic",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈkrɪptɪk/",
+            "root": "kryptos (Greek: hidden)",
+            "forms": {
+                "noun": "crypticness",
+                "verb": null,
+                "adverb": "cryptically"
+            }
+        },
+        "meaning": "Mysterious or obscure; difficult to understand",
+        "synonyms": [
+            "Enigmatic",
+            "Puzzling",
+            "Abstruse",
+            "Obscure"
+        ],
+        "exampleSentences": [
+            "His cryptic message left everyone confused.",
+            "The detective noted the cryptic clue in her notebook."
+        ]
+    },
+    {
+        "word": "Denouement",
+        "type": [
+            "noun"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˌdeɪnuˈmɑː/",
+            "root": "dénouement (French: untying)",
+            "forms": {
+                "verb": null,
+                "adjective": null,
+                "adverb": null
+            }
+        },
+        "meaning": "The final part of a play, movie, or narrative in which the strands of the plot are resolved",
+        "synonyms": [
+            "Conclusion",
+            "Resolution",
+            "Finale",
+            "Outcome"
+        ],
+        "exampleSentences": [
+            "The play's denouement revealed the true motivations of all the characters.",
+            "Audiences eagerly awaited the denouement of the complex mystery."
+        ]
+    },
+    {
+        "word": "Eloquent",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈeləkwənt/",
+            "root": "eloqui (Latin: speak out)",
+            "forms": {
+                "noun": "eloquence",
+                "verb": null,
+                "adverb": "eloquently"
+            }
+        },
+        "meaning": "Fluent or persuasive in speaking or writing",
+        "synonyms": [
+            "Articulate",
+            "Expressive",
+            "Compelling",
+            "Fluent"
+        ],
+        "exampleSentences": [
+            "The eloquent speaker moved the entire audience to tears.",
+            "Her eloquent essay captured the complexity of the issue."
+        ]
+    },
+    {
+        "word": "Foment",
+        "type": [
+            "verb"
+        ],
+        "wordForms": {
+            "pronunciation": "/fəˈment/",
+            "root": "fomentare (Latin: to apply warm liquid)",
+            "forms": {
+                "noun": "fomentation",
+                "adjective": null,
+                "adverb": null
+            }
+        },
+        "meaning": "To instigate or stir up (trouble or violent feelings)",
+        "synonyms": [
+            "Incite",
+            "Provoke",
+            "Instigate",
+            "Agitate"
+        ],
+        "exampleSentences": [
+            "The politician's inflammatory speech seemed designed to foment unrest.",
+            "Tensions continued to foment in the region."
+        ]
+    },
+    {
+        "word": "Glutinous",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈɡluːtɪnəs/",
+            "root": "gluten (Latin: glue)",
+            "forms": {
+                "noun": "glutinousness",
+                "verb": null,
+                "adverb": null
+            }
+        },
+        "meaning": "Sticky, viscous, or resembling glue",
+        "synonyms": [
+            "Sticky",
+            "Adhesive",
+            "Viscous",
+            "Gluey"
+        ],
+        "exampleSentences": [
+            "The glutinous rice stuck together in perfect clumps.",
+            "The glutinous substance made it difficult to separate the objects."
+        ]
+    },
+    {
+        "word": "Holistic",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/hoʊˈlɪstɪk/",
+            "root": "holos (Greek: whole)",
+            "forms": {
+                "noun": "holism",
+                "verb": null,
+                "adverb": "holistically"
+            }
+        },
+        "meaning": "Characterized by comprehension of the parts of something as intimately interconnected",
+        "synonyms": [
+            "Comprehensive",
+            "Integrated",
+            "Unified",
+            "Complete"
+        ],
+        "exampleSentences": [
+            "The holistic approach to medicine considers the entire patient, not just symptoms.",
+            "Her holistic view of the problem revealed unexpected connections."
+        ]
+    },
+    {
+        "word": "Immutable",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ɪˈmjuːtəbəl/",
+            "root": "im- (not) + mutabilis (changeable)",
+            "forms": {
+                "noun": "immutability",
+                "verb": null,
+                "adverb": "immutably"
+            }
+        },
+        "meaning": "Unchanging over time or unable to be changed",
+        "synonyms": [
+            "Constant",
+            "Permanent",
+            "Unchangeable",
+            "Fixed"
+        ],
+        "exampleSentences": [
+            "The immutable laws of physics govern the universe.",
+            "Some mathematical principles remain immutable through centuries."
+        ]
+    },
+    {
+        "word": "Jubilant",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈdʒuːbɪlənt/",
+            "root": "jubilare (Latin: to shout with joy)",
+            "forms": {
+                "noun": "jubilation",
+                "verb": null,
+                "adverb": "jubilantly"
+            }
+        },
+        "meaning": "Feeling or expressing great happiness and triumph",
+        "synonyms": [
+            "Elated",
+            "Overjoyed",
+            "Exultant",
+            "Triumphant"
+        ],
+        "exampleSentences": [
+            "The jubilant team celebrated their championship victory.",
+            "She was jubilant after receiving the long-awaited promotion."
+        ]
+    },
+    {
+        "word": "Kinetic",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/kɪˈnetɪk/",
+            "root": "kinetos (Greek: moving)",
+            "forms": {
+                "noun": "kinetics",
+                "verb": null,
+                "adverb": "kinetically"
+            }
+        },
+        "meaning": "Relating to or resulting from motion",
+        "synonyms": [
+            "Moving",
+            "Dynamic",
+            "Active",
+            "Motile"
+        ],
+        "exampleSentences": [
+            "The museum featured a kinetic sculpture that moved with the wind.",
+            "Kinetic energy is the energy of motion."
+        ]
+    },
+    {
+        "word": "Labyrinthine",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˌlæbəˈrɪnθaɪn/",
+            "root": "labyrinthos (Greek: maze)",
+            "forms": {
+                "noun": "labyrinth",
+                "verb": null,
+                "adverb": "labyrinthinely"
+            }
+        },
+        "meaning": "Complicated, intricate, or confusing",
+        "synonyms": [
+            "Complex",
+            "Intricate",
+            "Convoluted",
+            "Tortuous"
+        ],
+        "exampleSentences": [
+            "The labyrinthine plot of the novel kept readers guessing.",
+            "The city's labyrinthine streets confused even local taxi drivers."
+        ]
+    },
+    {
+        "word": "Magnanimous",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/mæɡˈnænɪməs/",
+            "root": "magnus (Latin: great) + animus (Latin: spirit)",
+            "forms": {
+                "noun": "magnanimity",
+                "verb": null,
+                "adverb": "magnanimously"
+            }
+        },
+        "meaning": "Very generous or forgiving, especially toward a rival or less powerful person",
+        "synonyms": [
+            "Generous",
+            "Noble",
+            "Unselfish",
+            "Big-hearted"
+        ],
+        "exampleSentences": [
+            "The magnanimous winner congratulated his opponents.",
+            "She was magnanimous in victory, showing respect to her competitors."
+        ]
+    },
+    {
+        "word": "Nascent",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈnæsənt/",
+            "root": "nasci (Latin: to be born)",
+            "forms": {
+                "noun": null,
+                "verb": null,
+                "adverb": null
+            }
+        },
+        "meaning": "Just coming into existence; beginning to develop",
+        "synonyms": [
+            "Emerging",
+            "Developing",
+            "Budding",
+            "Incipient"
+        ],
+        "exampleSentences": [
+            "The nascent technology showed great promise.",
+            "They invested in the nascent company during its early stages."
+        ]
+    },
+    {
+        "word": "Obsequious",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/əbˈsiːkwiəs/",
+            "root": "obsequi (Latin: to follow)",
+            "forms": {
+                "noun": "obsequiousness",
+                "verb": null,
+                "adverb": "obsequiously"
+            }
+        },
+        "meaning": "Excessively compliant or submissive",
+        "synonyms": [
+            "Servile",
+            "Fawning",
+            "Sycophantic",
+            "Subservient"
+        ],
+        "exampleSentences": [
+            "The obsequious assistant always agreed with the boss.",
+            "His obsequious behavior made others uncomfortable."
+        ]
+    },
+    {
+        "word": "Parsimonious",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˌpɑːrsɪˈmoʊniəs/",
+            "root": "parcere (Latin: to spare)",
+            "forms": {
+                "noun": "parsimony",
+                "verb": null,
+                "adverb": "parsimoniously"
+            }
+        },
+        "meaning": "Unwilling to spend money or use resources; cheap",
+        "synonyms": [
+            "Frugal",
+            "Miserly",
+            "Stingy",
+            "Tight-fisted"
+        ],
+        "exampleSentences": [
+            "The parsimonious manager refused to approve even small expenses.",
+            "Her parsimonious lifestyle allowed her to save a significant amount of money."
+        ]
+    },
+    {
+        "word": "Querulous",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/ˈkwerələs/",
+            "root": "querulus (Latin: complaining)",
+            "forms": {
+                "noun": "querulousness",
+                "verb": null,
+                "adverb": "querulously"
+            }
+        },
+        "meaning": "Complaining in a petulant or whining manner",
+        "synonyms": [
+            "Whiny",
+            "Complaining",
+            "Peevish",
+            "Grumbling"
+        ],
+        "exampleSentences": [
+            "The querulous child complained about every little thing.",
+            "His querulous tone made it difficult for others to take him seriously."
+        ]
+    },
+    {
+        "word": "Recalcitrant",
+        "type": [
+            "adjective"
+        ],
+        "wordForms": {
+            "pronunciation": "/rɪˈkælsɪtrənt/",
+            "root": "re- (back) + calcitrare (to kick)",
+            "forms": {
+                "noun": "recalcitrance",
+                "verb": null,
+                "adverb": "recalcitrantly"
+            }
+        },
+        "meaning": "Having an obstinately uncooperative attitude toward authority",
+        "synonyms": [
+            "Stubborn",
+            "Rebellious",
+            "Defiant",
+            "Unmanageable"
+        ],
+        "exampleSentences": [
+            "The recalcitrant student refused to follow the school's dress code.",
+            "Despite numerous warnings, the recalcitrant employee continued to miss deadlines."
+        ]
+    }
+]
