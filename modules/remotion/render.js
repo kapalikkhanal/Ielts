@@ -3,40 +3,88 @@ const { bundle } = require('@remotion/bundler');
 const path = require('path');
 const crypto = require('crypto');
 const fs = require('fs');
+const fsPromises = require('fs/promises');
 const { exec } = require("child_process");
 const FormData = require('form-data');
 const axios = require('axios');
 require('dotenv').config();
+const https = require('https');
 
 const generateTTSAudio = async (newsData) => {
     console.error("Data Here:", newsData.videoContent.word);
 
-    try {
-        const response = await axios.post(`https://mmhomepageapi.azurewebsites.net/api/MMHomePageApi?code=${process.env.MIC_MONSTOR_CODE}`,
-            {
+    return new Promise((resolve, reject) => {
+        try {
+            // Prepare request body
+            const requestBody = JSON.stringify({
                 "content": `<voice name="en-US-AndrewNeural">${newsData.videoContent.word}, a ${newsData.videoContent.type}, means ${newsData.videoContent.meaning}. For example, ${newsData.videoContent.example1}</voice>`,
                 "locale": "en-US",
                 "ip": "127.0.0.1"
-            }
-        );
+            });
 
-        // Decode base64 data
-        const audioBuffer = Buffer.from(response.data, 'base64');
+            // Parse the URL
+            const url = new URL(`https://mmhomepageapi.azurewebsites.net/api/MMHomePageApi?code=${process.env.MIC_MONSTOR_CODE}`);
 
-        // Generate random filename and save path
-        const randomId_audio = crypto.randomBytes(6).toString('hex');
-        const audioOutputPath = path.resolve(`./output/${randomId_audio}.mp3`);
+            // Prepare request options
+            const requestOptions = {
+                method: 'POST',
+                hostname: url.hostname,
+                path: url.pathname + url.search,
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Content-Length': Buffer.byteLength(requestBody)
+                }
+            };
 
-        // Write the buffer to an MP3 file
-        await fs.promises.writeFile(audioOutputPath, audioBuffer);
+            // Create the request
+            const req = https.request(requestOptions, (res) => {
+                let responseData = '';
 
-        console.log(`TTS audio generated at: ${audioOutputPath}`);
-        return audioOutputPath;
+                // A chunk of data has been received
+                res.on('data', (chunk) => {
+                    responseData += chunk;
+                });
 
-    } catch (error) {
-        console.error('Error generating TTS audio:', error.response?.data || error.message);
-        throw error;
-    }
+                // The whole response has been received
+                res.on('end', async () => {
+                    try {
+                        // Decode base64 data
+                        const audioBuffer = Buffer.from(responseData, 'base64');
+
+                        // Generate random filename and save path
+                        const randomId_audio = crypto.randomBytes(6).toString('hex');
+                        const audioOutputPath = path.resolve(`./output/${randomId_audio}.mp3`);
+
+                        // Ensure output directory exists
+                        await fsPromises.mkdir(path.dirname(audioOutputPath), { recursive: true });
+
+                        // Write the buffer to an MP3 file
+                        await fsPromises.writeFile(audioOutputPath, audioBuffer);
+
+                        console.log(`TTS audio generated at: ${audioOutputPath}`);
+                        resolve(audioOutputPath);
+                    } catch (error) {
+                        console.error('Error processing TTS response:', error);
+                        reject(error);
+                    }
+                });
+            });
+
+            // Handle request errors
+            req.on('error', (error) => {
+                console.error('Error generating TTS audio:', error.message);
+                reject(error);
+            });
+
+            // Write request body and end the request
+            req.write(requestBody);
+            req.end();
+
+        } catch (error) {
+            console.error('Unexpected error in TTS generation:', error);
+            reject(error);
+        }
+    });
 }
 
 const generateVideo = async (imagePath, audioPath, outputPath) => {
@@ -109,12 +157,12 @@ async function renderVideo(newsData) {
             inputProps: { newsData },
         });
 
-        if (fs.existsSync(outputLocation)) {
-            console.log(`Image confirmed at: ${outputLocation}`);
-        } else {
-            console.error(`Image NOT found at: ${outputLocation}`);
-            throw new Error('Generated image not found');
-        }
+        // if (fs.existsSync(outputLocation)) {
+        //     console.log(`Image confirmed at: ${outputLocation}`);
+        // } else {
+        //     console.error(`Image NOT found at: ${outputLocation}`);
+        //     throw new Error('Generated image not found');
+        // }
 
         // Generate final video with TTS audio
         const randomId_video = crypto.randomBytes(6).toString('hex');
