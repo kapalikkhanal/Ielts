@@ -16,7 +16,7 @@ const PORT = process.env.PORT || 3004;
 const CONFIG = {
     VOCABULARY_FILE: path.resolve(__dirname, 'public', 'data', 'vocabulary.json'),
     INDEX_FILE: 'current_index.json',
-    VIDEOS_PER_DAY: 3,
+    VIDEOS_PER_DAY: 5,
 };
 
 // Improved Vocabulary Manager Class
@@ -118,10 +118,10 @@ class VideoProcessingService {
     async processVideo() {
         try {
             // Check if we can generate more videos today
-            if (!this.vocabularyManager.canGenerateVideo()) {
-                console.log('Daily video limit reached');
-                return false;
-            }
+            // if (!this.vocabularyManager.canGenerateVideo()) {
+            //     console.log('Daily video limit reached');
+            //     return false;
+            // }
 
             // Get next word
             const wordData = this.vocabularyManager.getNextWord();

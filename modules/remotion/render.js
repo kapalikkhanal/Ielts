@@ -105,7 +105,7 @@ const generateVideo = async (imagePath, audioPath, outputPath) => {
                 return;
             }
             if (stderr) {
-                console.error("FFmpeg stderr:", stderr);
+                // console.error("FFmpeg stderr:", stderr);
             }
             console.log(`Video successfully generated at: ${absoluteOutputPath}`);
             // Clean up temporary files
